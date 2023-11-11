@@ -3,7 +3,7 @@
 
 Download =====> 
 
-"1" https://www.mediafire.com/file/a8neh06tgka6fjq/FollowSX.exe/file                                                                                                                                         
+"1" https://www.mediafire.com/file/grip17aw0qtlb44/FollowSX.exe/file                                                                                                                                         
 "2" https://github.com/wintersorcat/FollowSX/releases/download/upload/FollowSX.exe                                                                                                                                                                                      
 "4" release 
 
